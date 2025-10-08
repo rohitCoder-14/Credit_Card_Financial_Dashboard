@@ -10,12 +10,15 @@ Project Contents:
 2. Credit Card Customer Report: This page focuses on analyzing customer-related metrics, such as customer demographics, spending behavior, credit limits, and any customer-specific insights that can aid in decision-making processes.
 
 
+
 Tools & Technologies:
 1. Power BI / Excel – For data cleaning, modeling, and visualization.
 2. DAX Measures – Used for KPIs and dynamic calculations.
 3. Data Sources – Cleaned credit card transaction and customer data.
 
 
+
+Key Features:
 1. Financial & Transactional Analysis:
 - Core KPIs: Track Revenue, Amount, Interest, and Transaction Count.
 - Revenue Drivers: Breakdown revenue by Credit Card Category (Platinum, Gold, Silver, Blue) and Quarter.
